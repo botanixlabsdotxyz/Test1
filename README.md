@@ -1,5 +1,6 @@
 # Test1
 
-npm i
+### How to run
 
-node main
+- npm i
+- node main
