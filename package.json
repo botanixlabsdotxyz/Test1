@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "typo-crypto": "^4.0.0"
+  }
+}
